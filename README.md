@@ -19,7 +19,8 @@
 <a href="https://linkedin.com/in/md-rezwan-hossain-sajib-1417311a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-rezwan-hossain-sajib-1417311a1" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/rezwan-hossain-sajeeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rezwan-hossain-sajeeb" height="30" width="40" /></a>
 <a href="https://fb.com/rezwanhossain.sajib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rezwanhossain.sajib" height="30" width="40" /></a>
-<a href="https://discord.gg/sajib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sajib" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rezwan_hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rezwan_hossain" height="30" width="40" /></a>
+<a href="https://discord.gg/Sajib#9725" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sajib#9725" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
