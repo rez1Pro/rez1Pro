@@ -18,7 +18,7 @@
 <a href="https://twitter.com/pgmrrezwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pgmrrezwan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md-rezwan-hossain-sajib-1417311a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-rezwan-hossain-sajib-1417311a1" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/rezwan-hossain-sajeeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rezwan-hossain-sajeeb" height="30" width="40" /></a>
-<a href="https://fb.com/rezwan_hossain.sajib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rezwan_hossain.sajib" height="30" width="40" /></a>
+<a href="https://fb.com/rezwanhossain.sajib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rezwanhossain.sajib" height="30" width="40" /></a>
 <a href="https://discord.gg/sajib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sajib" height="30" width="40" /></a>
 </p>
 
