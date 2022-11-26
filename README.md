@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, This is Rezwan Hossain Sajib</h1>
 <h3 align="center">FullStack Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-rezwan&label=Profile%20views&color=0e75b6&style=flat" alt="developer-rezwan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developer-rezwan" alt="developer-rezwan" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/pgmrrezwan" target="blank"><img src="https://img.shields.io/twitter/follow/pgmrrezwan?logo=twitter&style=for-the-badge" alt="pgmrrezwan" /></a> </p>
 
-- 🔭 I’m currently working on [Fasho.com Limited.](#)
+- 🔭 I’m currently working on [Fasho.com Limited.](https://fashol.com)
 
 - 🌱 I’m currently learning **TailwindCss and Docker**
 
-- 💬 Ask me about **Laravel, VueJs/Nuxt , JQeury , PHP and Javascript/Typescript**
+- 👨‍💻 All of my projects are available at [https://github.com/Developer-Rezwan?tab=repositories](https://github.com/Developer-Rezwan?tab=repositories)
+
+- 💬 Feel free to ask me about **Laravel, VueJs/Nuxt , JQeury , PHP and Javascript/Typescript**
 
 - 📫 How to reach me **rezwanhossainsajib@gmail.com**
 
