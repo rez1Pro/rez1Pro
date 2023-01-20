@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/pgmrrezwan" target="blank"><img src="https://img.shields.io/twitter/follow/pgmrrezwan?logo=twitter&style=for-the-badge" alt="pgmrrezwan" /></a> </p>
 
-- 🔭 I’m currently working on [Fasho.com Limited.](https://fashol.com)
+- 🔭 I’m currently working on [Fashol.com Limited.](https://fashol.com)
 
 - 🌱 I’m currently learning **TailwindCss and Docker**
 
