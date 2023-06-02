@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [VRLY Technology.](https://getvrly.com)
 
-- 🌱 I’m currently learning **TailwindCss and Docker**
+- 🌱 I’m currently learning **Livewire and Alpinejs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rez1Pro?tab=repositories](https://github.com/rez1Pro?tab=repositories)
-
-- 💬 Feel free to ask me about **Laravel (Livewire+Alpine.js/Inertia+Vuejs/RestAPI), VueJs/Nuxtjs , JQeury , PHP and Javascript/Typescript**
+ 
+- 💬 Feel free to ask me about **Laravel (Livewire+Alpine.js / Inertia+Vuejs / RestAPI), VueJs/Nuxtjs , JQeury , PHP and Javascript/Typescript**
 
 - 📫 How to reach me **rezwanhossainsajib@gmail.com**
 
