@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/pgmrrezwan" target="blank"><img src="https://img.shields.io/twitter/follow/pgmrrezwan?logo=twitter&style=for-the-badge" alt="pgmrrezwan" /></a> </p>
 
-- 🔭 I’m currently working on [VRLY Technology.](https://getvrly.com)
+- 🔭 I’m currently working on [Fashol.com LTD.](https://fashol.com)
 
-- 🌱 I’m currently learning **Livewire and Alpinejs**
+- 🌱 I’m currently learning **Server Management**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rez1Pro?tab=repositories](https://github.com/rez1Pro?tab=repositories)
  
-- 💬 Feel free to ask me about **Laravel (Livewire+Alpine.js / Inertia+Vuejs / RestAPI), VueJs/Nuxtjs , JQeury , PHP and Javascript/Typescript**
+- 💬 Feel free to ask me about **Laravel,VueJs/Nuxtjs (Typescript)**
 
 - 📫 How to reach me **rezwanhossainsajib@gmail.com**
 
