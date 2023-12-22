@@ -14,7 +14,7 @@
 - 📫 How to reach me **rezwanhossainsajib@gmail.com**
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rez1PRO)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rez1PRO)](https://github.com/rez1Pro/readme)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
