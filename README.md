@@ -13,10 +13,7 @@
 
 - 📫 How to reach me **rezwanhossainsajib@gmail.com**
 
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rez1PRO)](https://github.com/rez1Pro/readme)
-
-<img src="https://wakatime.com/share/@Rez1PRO/52cbb02b-4f47-4f5f-831d-f4b3f620797e.png" />
+<img height="400px" src="https://wakatime.com/share/@Rez1PRO/52cbb02b-4f47-4f5f-831d-f4b3f620797e.png" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
