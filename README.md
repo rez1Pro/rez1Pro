@@ -16,6 +16,8 @@
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rez1PRO)](https://github.com/rez1Pro/readme)
 
+<figure><embed src="https://wakatime.com/share/@Rez1PRO/d931dc2a-4ce9-4920-a6b1-6f85240ee66d.svg"></embed></figure>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pgmrrezwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pgmrrezwan" height="30" width="40" /></a>
