@@ -15,7 +15,7 @@
 
 
 <img
-  src="https://github.com/rez1Pro/fashol-master/blob/backend/images/stat.svg"
+  src="https://github.com/rez1Pro/rez1Pro/blob/main/images/stat.svg"
   alt="Alternative Text"
 />
 
