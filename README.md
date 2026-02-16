@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, This is Rezwan Hossain Sajib</h1>
-<h3 align="center">FullStack Software Developer</h3>
+<h3 align="center">Technical Founder of Pynenut Technologies</h3>
 
 <p align="left"> <a href="https://twitter.com/pgmrrezwan" target="blank"><img src="https://img.shields.io/twitter/follow/pgmrrezwan?logo=twitter&style=for-the-badge" alt="pgmrrezwan" /></a> </p>
 
-- 🔭 I’m currently working on [Fashol.com LTD.](https://fashol.com)
+- 🔭 I’m currently working on [PYNENUT TECHNOLOGIES](https://pynenut.com/en)
 
 - 🌱 I’m currently learning **Server Management**
 
