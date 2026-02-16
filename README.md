@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rez1Pro?tab=repositories](https://github.com/rez1Pro?tab=repositories)
  
-- 💬 Feel free to ask me about **Laravel,VueJs/Nuxtjs (Typescript)**
+- 💬 Feel free to ask me about **Laravel, VueJs/Nuxtjs (Typescript), Reactjs/NextJs, Docker and DevOps Practitioner**
 
 - 📫 How to reach me **rezwanhossainsajib@gmail.com**
 
